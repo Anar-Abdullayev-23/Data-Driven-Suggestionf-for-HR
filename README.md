@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # Data-Driven HR: Predicting and Preventing Employee Turnover
-Machine Learning for HR Employee Churn Prediction and Analysis
-=======
+
 ## OVERVIEW
 The goal of this project is to use data to understand exactly why employees quit and how to keep them. By analyzing historical employee data, we built a system that **predicts whether an employee will leave with 96.2% accuracy**. More importantly, this project provides actionable HR strategies to improve retention and employee satisfaction.
 
